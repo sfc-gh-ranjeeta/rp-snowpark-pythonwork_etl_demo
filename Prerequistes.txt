@@ -1,0 +1,10 @@
+install python 3
+install Anaconda
+
+install Java
+set JAVA_HOME
+install Scala 
+
+install Spark 
+set SPARK_HOME
+
